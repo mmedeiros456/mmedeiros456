@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou mestrando em engenharia elétrica<br>⚡ Venho buscando mais conhecimentos e aprimoramentos na<br>linguagem C, Matlab e banco de dados para o uso voltandos<br>em machine learning de sensores elétricos.<br>
+🔭 Sou mestrando em engenharia elétrica<br>⚡ Venho buscando mais conhecimentos e aprimoramentos na<br>linguagem C, Matlab e banco de dados para o uso voltando<br>a machine learning de sensores elétricos.<br>
 
 
 ## 🌐 Socials:
